@@ -1,2 +1,1 @@
-# MaskandGlass
-利用Dlib模块的landmark在人脸图像上增加面罩和眼镜 Add Mask and Glass based on Dlib landmark
+﻿在CSDN上看到“不脱发的程序猿"的文章：《基于Python的人脸自动戴口罩系统》https://blog.csdn.net/m0_38106923/article/details/104174562里面介绍了怎么利用Dlib模块的landmark人脸68个关键点识别人脸五官数据，从而实现带口罩。本文是在作者的基础上，增加了添加眼镜的功能
